@@ -1,0 +1,1 @@
+(Get-ItemProperty HKLM:\Software\wow6432node\Microsoft\Windows\CurrentVersion\Uninstall\* | where-Object {$_.DisplayName -like "Workspace ONE Intelligent Hub*" }).PSChildname
