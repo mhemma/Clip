@@ -1,4 +1,4 @@
-computer1 = --help --user1                                                                                                                                                                                                        
+computer1 = --help --user1
 computer2 = --help --user2
 computer3 = --help --user3
 computer4 = --help --user4
