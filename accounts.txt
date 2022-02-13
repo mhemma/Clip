@@ -1,5 +1,0 @@
-computer1 = --help --user1
-computer2 = --help --user2
-computer3 = --help --user3
-computer4 = --help --user4
-computer5 = --help --user5
